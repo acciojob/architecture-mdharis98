@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body {
+            width: 1100px;
+            margin: 0 auto;
+            font-family: Arial, sans-serif;
+        }
+        .imageContainer {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .imageContainer img {
+            width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 10px;
+            vertical-align: top;
+        }
+        .first, .last {
+            width: 200px;
+        }
+        .middle {
+            width: 600px;
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
